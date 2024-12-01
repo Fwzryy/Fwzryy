@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🛜Currently working on my own Webpage<br>📚 I'm currently learning : Advanced JavaScript, React, and optimizing frontend performance.<br>🎯 Goals: Build innovative web applications and grow my entrepreneurial ventures into impactful businesses.<br>💻 Working as a web developer since 2022</p>
+<p align="left">🛜Currently working on my own Webpage<br>📚 I'm currently learning : Advanced JavaScript, React, and optimizing frontend performance.<br>🎯 Goals: Build innovative web applications and grow my entrepreneurial ventures into impactful businesses.<br>🧑‍💻 Working as a web developer since 2022</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Tech Stack:</h2>
+<h2 align="left">💻Tech Stack:</h2>
 
 ###
 
