@@ -1,4 +1,4 @@
-<h1 align="left">Hello World! 👋 I'm Fwzryy</h1>
+<h1 align="left">Hello World! 👋 I'm Fawwaz Raihan</h1>
 
 ###
 
